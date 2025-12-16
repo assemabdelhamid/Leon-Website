@@ -95,7 +95,6 @@ Leon Template
 Frontend Developer
 
 * GitHub: [https://github.com/assemabdelhamid](https://github.com/assemabdelhamid)
-* LinkedIn: *(optional)*
 
 ---
 
