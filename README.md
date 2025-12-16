@@ -9,7 +9,7 @@ The project focuses on clean design, simple structure, and smooth user experienc
 
 > *(Add live demo link here if deployed on GitHub Pages)*
 > Example:
-> [https://your-username.github.io/leon-template](https://your-username.github.io/leon-template)
+> [https://your-username.github.io/leon-template](https://assemabdelhamid.github.io/leon-template)
 
 ---
 
@@ -104,7 +104,7 @@ Leon Template
 **Assem Abdel Hamid**
 Frontend Developer
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
+* GitHub: [https://github.com/your-username](https://github.com/assemabdelhamid)
 * LinkedIn: *(optional)*
 
 ---
