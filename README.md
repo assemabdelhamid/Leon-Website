@@ -9,7 +9,7 @@ The project focuses on clean design, simple structure, and smooth user experienc
 
 
 > Example:
-> [https://assemabdelhamid.github.io/leon-template](https://assemabdelhamid.github.io/leon-template)
+> [https://assemabdelhamid.github.io/leon-template](https://assemabdelhamid.github.io/Leon-Website)
 
 ---
 
