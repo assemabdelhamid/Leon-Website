@@ -7,9 +7,9 @@ The project focuses on clean design, simple structure, and smooth user experienc
 
 ## 🌐 Live Demo
 
-> *(Add live demo link here if deployed on GitHub Pages)*
+
 > Example:
-> [https://your-username.github.io/leon-template](https://assemabdelhamid.github.io/leon-template)
+> [https://assemabdelhamid.github.io/leon-template](https://assemabdelhamid.github.io/leon-template)
 
 ---
 
@@ -70,16 +70,6 @@ Leon Template
 
 ---
 
-## 📸 Screenshots
-
-> *(You can add screenshots later)*
-> Example:
-
-```
-/images/preview.png
-```
-
----
 
 ## 🚀 How To Run The Project
 
@@ -104,7 +94,7 @@ Leon Template
 **Assem Abdel Hamid**
 Frontend Developer
 
-* GitHub: [https://github.com/your-username](https://github.com/assemabdelhamid)
+* GitHub: [https://github.com/assemabdelhamid](https://github.com/assemabdelhamid)
 * LinkedIn: *(optional)*
 
 ---
